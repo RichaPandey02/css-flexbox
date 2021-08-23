@@ -1,0 +1,64 @@
+                        CSS Flex Properties
+----------------------------------------------------------------------------------------------
+* flex-direction
+*flex-wrap
+*flex-flow
+*flex-grow
+*flex-shrink
+*flex-basis
+*flex
+*justify-content
+*align-content
+*align-items
+*align-self
+*order
+
+CSS Flex Wrap Values->(It prevents the dataflow)
+----------------------
+*nowrap
+*wrap
+*wrap-reverse
+
+
+
+CSS Flex-flow Values->
+-------------------------
+Flex-flow:<flex-direction><flex-wrap>
+
+
+
+justify-content Values->
+-------------------------
+*flex-start
+*flex-end
+*center
+*space-around 
+*space-between
+*space-evenly
+
+Align-items Values->
+-----------------------
+*flex-start
+*flex-end
+*center
+*stretch
+*baseline
+
+Align-content Values->
+-------------------------
+*flex-start
+*flex-end
+*center
+*space-around 
+*space-between
+*space-evenly
+
+
+Align-self Values->
+--------------------
+*auto
+*flex-start
+*flex-end
+*center
+*stretch
+*baseline
